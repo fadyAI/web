@@ -1,3 +1,5 @@
+`Some slides have been updated (small updates). Please always check the new versions.`
+
 # web
 
 - https://www.coursera.org/learn/business-transformation-google-cloud
