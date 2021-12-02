@@ -1,4 +1,4 @@
-` __Some slides have been updated (small updates). Please always check the new versions.__ `
+### Some slides have been updated (small updates). Please always check the new versions.
 
 # web
 
